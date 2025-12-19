@@ -8,6 +8,8 @@ This last year I purchased a 16GB GPU and wanted to see just what could be pulle
 
 I gotta say I am pleasently surprised.
 
+![Vibe-coded Space Invaders game play](opencode-spaceinvaders_gameplay.png)
+
 ClaudeCode is obviously the diamond experience.  It can write the code, validate it, test it, and fix it's own errors.
 
 Using LM Studio, I can load models upto about the 14 billion parameter mark and have them be very fast, but LM Studio also affords me the ability to run models that do not fit within the GPU's memory, then "swap" the left over onto system memory and CPU.
